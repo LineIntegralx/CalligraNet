@@ -11,7 +11,7 @@ The project explores how different architectures—ranging from classical CTC-ba
 
 All datasets used in the project are hosted externally:
 
-https://drive.google.com/drive/folders/1xje9PQZftYMvaKG3wt0bmELn0vlpHR_u?usp=drive_link
+https://drive.google.com/drive/folders/1xCPOU6XTw2hih0QHaYYg3zslFAVysGvJ?usp=sharing
 
 The repository works with several dataset variants:
 
@@ -22,6 +22,7 @@ The repository works with several dataset variants:
 - Calliar dataset (used for exploratory segmentation experiments)
 
 These datasets support experiments in transcription, style classification, and character-level segmentation.
+The shared repository as well hosts some models' checkpoints.
 
 ---
 
